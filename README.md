@@ -1,4 +1,3 @@
-# template-cafe-web
-to try login this template admin web use this
-username - password
-test - test
+# Welcome here
+- Here is the simple landing page for ** Coffee shop **
+it's will be updated continously
